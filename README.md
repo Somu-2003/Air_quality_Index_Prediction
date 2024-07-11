@@ -1,2 +1,2 @@
 Air Quality Index Prediction
-Author- Soumyaditya Mondal
+Author- Soumyaditya (IIEST)
